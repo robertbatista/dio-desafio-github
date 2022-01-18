@@ -1,6 +1,6 @@
 # dio-desafio-github
-Desafio GitHUb Dio
+Desafio GitHub Dio
 
-Defasio de projeto GitHub  da Dio
+Desafio 
 
 Repositorio criado para o desafio de projetos
